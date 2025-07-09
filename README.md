@@ -1,2 +1,1 @@
-# MintTestnetNetworkSDKPro
-Advanced MintTestnetNetworkSDKPro project
+.
